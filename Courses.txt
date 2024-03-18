@@ -1,0 +1,6 @@
+CENG1304;Design and Analysis of Algorithms;Mark Zuckerberg;5
+CENG3212;Network Programming;Elon Musk;5
+CENG2034;Web Development and Programming;Steve Jobs;5
+CENG2103;Digital Logic Design;Bill Gates;3
+CENG2234;Programming Fundementals;Barış Ethem;2
+CENG4132;Computer and Network Security;Ilber Ortayli;1
